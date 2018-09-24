@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: Oh My Jaipur!!
+categories: [general, intro, about]
+tags: [demo, omj, jaipur, about]
 fullview: true
 comments: true
 ---
