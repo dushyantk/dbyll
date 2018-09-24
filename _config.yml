@@ -20,13 +20,13 @@ description: The Pink City of India
 disqus: dbyll-ghost # add disqus short name here
 author:
   name: Oh My Jaipur
-  email: info@ohmyjaipur.com
+  email: ohmyjaipur@gmail.com
   github: dushyantk
   twitter: ohmyjaipur
   pinterest: asd123
   linkedin: asd123
   bio: It's all abour Jaipur and for it's People
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 8293b53dc2d2974ee7708a1c38b38cc7
 
 rss_path: feed.xml
 categories_path: categories.html
