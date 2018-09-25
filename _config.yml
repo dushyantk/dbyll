@@ -17,7 +17,7 @@ defaults:
       title: Oh My Jaipur
 
 description: The Pink City of India
-disqus: dbyll-ghost # add disqus short name here
+disqus: OhMyJaipur # add disqus short name here
 author:
   name: Oh My Jaipur
   email: ohmyjaipur@gmail.com
@@ -32,7 +32,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: ohmyjaipur.com/ohmyjaipur.com
+BASE_PATH: ohmyjaipur.com/ohmyjaipur.com/
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
