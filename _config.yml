@@ -25,14 +25,14 @@ author:
   twitter: ohmyjaipur
   pinterest: asd123
   linkedin: asd123
-  bio: It's all abour Jaipur and for it's People
+  bio: It's all about Jaipur and for it's People
   email_md5: 8293b53dc2d2974ee7708a1c38b38cc7
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: ohmyjaipur.com
+BASE_PATH: ohmyjaipur.com/ohmyjaipur.com
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
