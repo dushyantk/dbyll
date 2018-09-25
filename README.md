@@ -30,7 +30,7 @@ Demo: http://dbtek.github.io/dbyll/
 - Then - ```bundle exec jekyll serve```
 
 ### Screenshots
-![dbyll-screenshot](www.gravatar.com/avatar/{{site.author.email_md5}})
+![dbyll-screenshot](assets/media/dbyll-ss.png)
 
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
