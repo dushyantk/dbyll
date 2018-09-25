@@ -32,7 +32,11 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+<<<<<<< HEAD
 BASE_PATH: ohmyjaipur.com/ohmyjaipur.com/
+=======
+BASE_PATH: http://ohmyjaipur.com
+>>>>>>> f2cc7ecded052d0cdc5dd0e325c2633395077362
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
