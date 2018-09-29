@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Birth of Jaipur!!
 categories: [general, intro, about]
-tags: [demo, omj, jaipur, about]
+tags: [omj, jaipur, about]
 fullview: true
 comments: true
 ---
